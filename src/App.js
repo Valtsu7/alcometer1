@@ -35,12 +35,6 @@ function App() {
 
 
   }
-  
-  
-  
-
-  
-
 
   return (
     <>
