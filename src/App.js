@@ -47,7 +47,7 @@ function App() {
     <h1> Calculating alcohol blood level</h1>
     <form onSubmit={handleSubmit}>
       <div>
-        <label> Weight333 </label>
+        <label> Weight </label>
         <input name='weight' type="number" step="1" value={Weight} onChange={e => setWeight(e.target.value) } />
       </div>
       <div>
